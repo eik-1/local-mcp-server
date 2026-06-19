@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+      "learn-mcp": {
+        "type": "stdio",
+        "command": "npx",
+        "args": ["tsx", "src/index.ts"],
+        "cwd": "${workspaceFolder}",
+        "dev": {
+            "watch": "build/**/*.js",
+            "debug": {
+                "type": "node"
+            }
+        }
+      }
+    }
+}

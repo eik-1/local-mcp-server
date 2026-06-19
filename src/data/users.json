@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St, Anytown, USA",
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "address": "123 Main St, Anytown, USA",
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 3,
+    "name": "Jim Beam",
+    "email": "jim.beam@example.com",
+    "address": "123 Main St, Anytown, USA",
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 4,
+    "name": "Eik",
+    "email": "eik@gmail.com",
+    "address": "69-A",
+    "phone": "8218827793"
+  },
+  {
+    "id": 5,
+    "name": "Brad Pitt",
+    "email": "brad.pitt@hollywoodmail.com",
+    "address": "847 Sunset Boulevard, Los Angeles, CA 90028",
+    "phone": "310-555-0147"
+  },
+  {
+    "id": 6,
+    "name": "Al Pacino",
+    "email": "al.pacino@hollywoodmail.com",
+    "address": "1200 Park Avenue, New York, NY 10028",
+    "phone": "212-555-0198"
+  },
+  {
+    "id": 7,
+    "name": "Robert DeNiro",
+    "email": "robert.deniro@hollywoodmail.com",
+    "address": "375 Greenwich Street, New York, NY 10013",
+    "phone": "212-555-0264"
+  },
+  {
+    "id": 8,
+    "name": "Alex Morgan",
+    "email": "alex.morgan@example.com",
+    "address": "456 Oak Avenue, Portland, OR 97201",
+    "phone": "503-555-0182"
+  },
+  {
+    "id": 9,
+    "name": "Sofia Ramirez",
+    "email": "sofia.ramirez@metroline.net",
+    "address": "1428 Valencia Street, San Francisco, CA 94110",
+    "phone": "415-555-0391"
+  },
+  {
+    "id": 10,
+    "name": "Marcus Chen",
+    "email": "marcus.chen@northbay.io",
+    "address": "2201 Lakeshore Drive, Austin, TX 78746",
+    "phone": "512-555-0473"
+  }
+]

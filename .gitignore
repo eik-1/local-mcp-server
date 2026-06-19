@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+
+# Environment variables
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: local Cursor state (keep .cursor/mcp.json tracked)
+.cursor/.cache/
