@@ -10,7 +10,8 @@
     "start": "node build/index.js",
     "mcp": "tsx src/index.ts --env-file=.env",
     "dev": "tsx watch src/index.ts --env-file=.env",
-    "inspect": "DANGEROUSLY_OMIT_AUTH=true npx @modelcontextprotocol/inspector npx tsx src/index.ts --env-file=.env"
+    "inspect": "DANGEROUSLY_OMIT_AUTH=true npx @modelcontextprotocol/inspector npx tsx src/index.ts --env-file=.env",
+    "client:dev": "tsx src/client.ts"
   },
   "keywords": [],
   "author": "",
@@ -22,7 +23,11 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
+    "@ai-sdk/google": "^3.0.83",
+    "@inquirer/prompts": "^8.5.2",
     "@modelcontextprotocol/sdk": "^1.29.0",
+    "ai": "^6.0.208",
+    "dotenv": "^17.4.2",
     "zod": "^4.4.3"
   }
 }
